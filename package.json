@@ -16,7 +16,7 @@
     "docker",
     "dockerfile"
   ],
-  "author": "crudsinfotechng@gmail.com",
+  "author": "mikes@metsi.co.uk",
   "license": "ISC",
   "devDependencies": { "test": ">=0.6.0" }
 }
